@@ -1,1 +1,1 @@
-# Szakmai-gyakorlat
+# Szakmai gyakorlat
